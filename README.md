@@ -11,14 +11,28 @@
 
  
  ```c#
-class TheColors : MonoBehaviour {
-    private int self_age => 22;
+class TheColors : MonoBehaviour
+{
+    private int self_age = 22;
     private bool self_isStudent => true;
     private string seft_school => "CTU";
     private string self_nationality => "Vietnamese";
     private string[] self_hobbies => new string[] { "programming", "music", "Youtube" };
     private string[] self_programming_languages => new string[] { "C#", "JavaScript" };
-    private string[] self_skills => new string[] { "C# scripting", "Asset integration", "Game physics", "Performance optimization", "Multiplayer networking" };
+    private List<string> self_skills = new List<string>();
+
+    private void Start()
+    {
+       self_skills.Add("C# scripting");
+       self_skills.Add("Asset integration");
+       self_skills.Add("Game physics");
+       self_skills.Add("Performance optimization");
+       self_skills.Add("Multiplayer networking");
+
+       InvokeRepeating(() => {
+         self_age++;
+        }, 365 * 24 * 60 * 60, 365 * 24 * 60 * 60);
+    }
 }   
 ```
  
