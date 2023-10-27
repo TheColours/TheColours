@@ -1,9 +1,10 @@
-# Nguyen Tran Gia Bao (Yanji) 
-### Software Engineer
+# Nguyen Chi Binh (TheColors) 
+### Unity Game Developer
 
-My name is Bao and I'm studying Software Engineer 2024. I'm from Vietnam and my goal is to become a Software Engineer.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 ![259420965_1076823629731208_8053683811752425098_n](https://user-images.githubusercontent.com/95952006/215120311-0ed3b101-2d87-4f27-83df-59380d5968e0.jpg)
  
@@ -11,12 +12,12 @@ My name is Bao and I'm studying Software Engineer 2024. I'm from Vietnam and my 
  <img src="https://komarev.com/ghpvc/?username=ngtrgiabaoB2012063&color=blue">
  
  ```java
-class ngtrgiabao {
-    public int seft_class = 2024;
-    public String seft_school = "CTU 🍍";
-    public String self_pronouns = "he/him";
-    public String[] self_hobbies = ["programming", "music", "Youtube"];
-    public String[] self_programming_languages = ["TypeScript", "JavaScript"];
+class TheColors : MonoBehaviour {
+     private int seft_class => 2024;
+     private string seft_school => "CTU 👻";
+     private string self_pronouns => "he/him";
+     private string[] self_hobbies => new string[] { "programming", "music", "Youtube" };
+     private string[] self_programming_languages => new string[] { "C#", "JavaScript" };
 }   
 ```
  
