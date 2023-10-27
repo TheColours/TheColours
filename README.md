@@ -8,21 +8,21 @@
 
 ![259420965_1076823629731208_8053683811752425098_n](https://user-images.githubusercontent.com/95952006/215120311-0ed3b101-2d87-4f27-83df-59380d5968e0.jpg)
  
- <a href=https://www.linkedin.com/in/gbao/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=blue&logo=linkedIn"> </a>
- <img src="https://komarev.com/ghpvc/?username=ngtrgiabaoB2012063&color=blue">
+
  
  ```c#
 class TheColors : MonoBehaviour {
-     private int seft_class => 2024;
-     private string seft_school => "CTU 👻";
-     private string self_pronouns => "he/him";
-     private string[] self_hobbies => new string[] { "programming", "music", "Youtube" };
-     private string[] self_programming_languages => new string[] { "C#", "JavaScript" };
+    private int self_age => 25;
+    private bool self_isStudent => true;
+    private string seft_school => "CTU 👻";
+    private string self_nationality => "Vietnamese";
+    private string[] self_hobbies => new string[] { "programming", "music", "Youtube" };
+    private string[] self_programming_languages => new string[] { "C#", "JavaScript" };
+    private string[] self_skills => new string[] { "C# scripting", "Asset integration", "Game physics", "Performance optimization", "Multiplayer networking" };
 }   
 ```
  
- ### <img src="https://64.media.tumblr.com/3739b4732fe715eae5ac27346bc3157e/a76dcdaa54da5967-93/s250x400/93f54a7a373ad886875eadf35d9da7558fbdbe44.png" width="64px" height="64px" alt="pokemon"> My Stats
- 
+
  
  
  <img src="https://github-readme-stats.vercel.app/api?username=ImYourMuse&theme=tokyonight&show_icons=true&count_private=true">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ImYourMuse&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
