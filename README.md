@@ -3,7 +3,7 @@
 
 
 
-<p>Hi there!👋 My name is Binh and I'm studying information technology in 2024. I'm passionate about math and 2D games. <a href="http://teamobi.com/home/trang-chu.html" target="_blank"><button style="background-color: transparent; border: none; color: blue; text-decoration: underline; cursor: pointer;">Teamobi's</button></a> <img src="/Teamobi.png" alt="Image" style="width: 15%;" /> game "Avatar" has inspired me to explore Unity!</p>
+<p>Hi there!👋 My name is Binh and I'm studying information technology in 2024. I'm passionate about math and 2D games. <a href="http://teamobi.com/home/trang-chu.html" target="_blank"><button style="background-color: transparent; border: none; color: blue; text-decoration: underline; cursor: pointer;">Teamobi's</button></a> <img src="/Teamobi.png" alt="Image" style="width: 2%;" /> game "Avatar" has inspired me to explore Unity!</p>
 
 
 
