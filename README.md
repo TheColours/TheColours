@@ -2,7 +2,7 @@
 ### Unity Game Developer
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsszeyy7cbfka7lhcaxpgw3a4u&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yqc64c7rug3xhvpcf3kt7amvca&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
@@ -11,7 +11,7 @@
  <a href=https://www.linkedin.com/in/gbao/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=blue&logo=linkedIn"> </a>
  <img src="https://komarev.com/ghpvc/?username=ngtrgiabaoB2012063&color=blue">
  
- ```java
+ ```c#
 class TheColors : MonoBehaviour {
      private int seft_class => 2024;
      private string seft_school => "CTU 👻";
@@ -25,10 +25,10 @@ class TheColors : MonoBehaviour {
  
  
  
- <img src="https://github-readme-stats.vercel.app/api?username=ngtrgiabao&theme=tokyonight&show_icons=true&count_private=true">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ngtrgiabao&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ <img src="https://github-readme-stats.vercel.app/api?username=ImYourMuse&theme=tokyonight&show_icons=true&count_private=true">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ngtrgiabao&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtrgiabao&theme=tokyonight&layout=compact&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImYourMuse&theme=tokyonight&layout=compact&langs_count=6">
 
 <br/>
 
