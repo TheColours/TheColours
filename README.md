@@ -12,9 +12,9 @@
  
  ```c#
 class TheColors : MonoBehaviour {
-    private int self_age => 25;
+    private int self_age => 22;
     private bool self_isStudent => true;
-    private string seft_school => "CTU 👻";
+    private string seft_school => "CTU";
     private string self_nationality => "Vietnamese";
     private string[] self_hobbies => new string[] { "programming", "music", "Youtube" };
     private string[] self_programming_languages => new string[] { "C#", "JavaScript" };
