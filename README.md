@@ -1,7 +1,10 @@
 
 ![259420965_1076823629731208_8053683811752425098_n](https://user-images.githubusercontent.com/95952006/215120311-0ed3b101-2d87-4f27-83df-59380d5968e0.jpg)
 
-<p>Hi there!👋 My name is Binh and I'm studying information technology in 2024. I'm passionate about math and 2D games. <a href="http://teamobi.com/home/trang-chu.html" target="_blank"><button style="background-color: transparent; border: none; color: blue; text-decoration: underline; cursor: pointer;">Teamobi's</button></a> game "Avatar" has inspired me to explore Unity!</p>
+
+
+<p>Hi there!👋 My name is Binh and I'm studying information technology in 2024. I'm passionate about math and 2D games. <a href="http://teamobi.com/home/trang-chu.html" target="_blank"><button style="background-color: transparent; border: none; color: blue; text-decoration: underline; cursor: pointer;">Teamobi's</button></a> <img src="/Teamobi.png" alt="Image" style="width: 15%;" /> game "Avatar" has inspired me to explore Unity!</p>
+
 
 
 
@@ -18,7 +21,7 @@ class TheColors : MonoBehaviour
     private bool self_isStudent = true;
     private string seft_school => "CTU";
     private string self_nationality => "Vietnamese";
-    private string[] self_hobbies => new string[] { "programming", "music", "Youtube" };
+    private string[] self_hobbies => new string[] { "Programming", "Music", "Youtube" };
     private string[] self_programming_languages => new string[] { "C#", "JavaScript" };
     private List<string> self_skills = new List<string>();
 
