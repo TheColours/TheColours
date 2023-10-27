@@ -30,7 +30,7 @@ class TheColors : MonoBehaviour
        self_skills.Add("Multiplayer networking");
 
        InvokeRepeating(() => {
-         self_age++;
+         self_isStudent = (++self_age == 23) ? false : true;
         }, 365 * 24 * 60 * 60, 365 * 24 * 60 * 60);
     }
 }   
