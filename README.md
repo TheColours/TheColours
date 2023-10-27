@@ -1,18 +1,16 @@
 
 ![259420965_1076823629731208_8053683811752425098_n](https://user-images.githubusercontent.com/95952006/215120311-0ed3b101-2d87-4f27-83df-59380d5968e0.jpg)
 
-<p>My name is Binh and I'm studying information technology in 2024. I'm passionate about math and 2D games. <a href="http://teamobi.com/home/trang-chu.html" target="_blank"><button style="background-color: transparent; border: none; color: blue; text-decoration: underline; cursor: pointer;">Teamobi's</button></a> game "Avatar" has inspired me to explore Unity!</p>
-
-
-
-
+<p>Hi there!👋 My name is Binh and I'm studying information technology in 2024. I'm passionate about math and 2D games. <a href="http://teamobi.com/home/trang-chu.html" target="_blank"><button style="background-color: transparent; border: none; color: blue; text-decoration: underline; cursor: pointer;">Teamobi's</button></a> game "Avatar" has inspired me to explore Unity!</p>
 
 
 
 
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yqc64c7rug3xhvpcf3kt7amvca&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
- 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yqc64c7rug3xhvpcf3kt7amvca&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
+![z4821334385739_654413bf28c5b54d96ae1d2989ed82b9](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/65007a0f-ab67-41b3-8b6e-1133155bdcc2)
+
+  
  ```c#
 class TheColors : MonoBehaviour
 {
