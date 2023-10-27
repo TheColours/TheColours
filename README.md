@@ -1,5 +1,5 @@
 # Nguyen Chi Binh (TheColors) 
-### Unity Game Developer
+
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yqc64c7rug3xhvpcf3kt7amvca&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
@@ -25,7 +25,7 @@ class TheColors : MonoBehaviour {
  
  
  
- <img src="https://github-readme-stats.vercel.app/api?username=ImYourMuse&theme=tokyonight&show_icons=true&count_private=true">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ngtrgiabao&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ <img src="https://github-readme-stats.vercel.app/api?username=ImYourMuse&theme=tokyonight&show_icons=true&count_private=true">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ImYourMuse&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImYourMuse&theme=tokyonight&layout=compact&langs_count=6">
