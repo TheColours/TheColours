@@ -1,5 +1,4 @@
-![Rectangle 28](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/98ce23b2-0346-4161-a4e0-15490480be49)
-![259420965_1076823629731208_8053683811752425098_n](https://user-images.githubusercontent.com/95952006/215120311-0ed3b101-2d87-4f27-83df-59380d5968e0.jpg)
+![Rectangle 27](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/7c0a2450-5877-40df-9730-7807ae4b4875)
 
 
 
