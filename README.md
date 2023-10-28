@@ -10,9 +10,15 @@
 
 
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yqc64c7rug3xhvpcf3kt7amvca&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) ![Frame 32 (1) 1 (1)](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/a71ae562-0f9c-42e7-b5db-a4ae30173ef6)   ![Frame 32 (1) 1 (1)](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/a71ae562-0f9c-42e7-b5db-a4ae30173ef6) 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yqc64c7rug3xhvpcf3kt7amvca&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) ![Rectangle 28](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/1453f783-6065-4b45-8a60-7eff7c5c03d9) 
 
-V
+
+
+
+
+
+
+
 
   
  ```c#
