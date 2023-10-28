@@ -9,7 +9,8 @@
 
 
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yqc64c7rug3xhvpcf3kt7amvca&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  ![Group 46](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/6ae80596-a9ce-4d29-baea-49db0bef423f)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yqc64c7rug3xhvpcf3kt7amvca&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  ![Group 46](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/b782f36b-c474-4057-b19b-e10cfe29d42e)
+
 
 
 
