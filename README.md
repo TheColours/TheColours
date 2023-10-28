@@ -1,4 +1,4 @@
-
+![Rectangle 28](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/98ce23b2-0346-4161-a4e0-15490480be49)
 ![259420965_1076823629731208_8053683811752425098_n](https://user-images.githubusercontent.com/95952006/215120311-0ed3b101-2d87-4f27-83df-59380d5968e0.jpg)
 
 
@@ -10,7 +10,8 @@
 
 
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yqc64c7rug3xhvpcf3kt7amvca&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  ![Rectangle 28](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/27c6772d-d714-4291-8dcc-1dc6057b4aca)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yqc64c7rug3xhvpcf3kt7amvca&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  ![Rectangle 28](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/c4c8ce54-a401-42b4-9f7f-b59382090507)
+
 
 
 
