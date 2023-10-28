@@ -1,5 +1,4 @@
-![Ảnh chụp màn hình 2023-10-28 145402](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/7fbe5ffc-a913-4a9d-9045-c4a8b62b5163)
-
+![Ảnh chụp màn hình 2023-10-28 145402 1](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/395a152b-3cfa-493e-a306-0ddce0a4e217)
 
 
 <p>Hi there!👋 My name is Binh and I'm studying information technology in 2024. I'm passionate about math and 2D games. <a href="http://teamobi.com/home/trang-chu.html" target="_blank"><button style="background-color: transparent; border: none; color: blue; text-decoration: underline; cursor: pointer;">Teamobi's</button></a> <img src="/Teamobi.png" alt="Image" style="width: 3%;" /> game "Avatar💕" has inspired me to explore Unity!</p>
