@@ -1,4 +1,4 @@
-![Rectangle 27](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/7c0a2450-5877-40df-9730-7807ae4b4875)
+![Ảnh chụp màn hình 2023-10-28 145402](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/7fbe5ffc-a913-4a9d-9045-c4a8b62b5163)
 
 
 
