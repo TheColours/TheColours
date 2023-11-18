@@ -1,4 +1,7 @@
 
+
+
+
 ![Frame 49](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/29e5fbb6-f491-46aa-81c7-71c132d9178b)
 
 <p>Hi there!👋 My name is Binh and I'm studying information technology in 2024. I'm passionate about math and 2D games. <a href="http://teamobi.com/home/trang-chu.html" target="_blank"><button style="background-color: transparent; border: none; color: blue; text-decoration: underline; cursor: pointer;">Teamobi's</button></a> <img src="/Teamobi.png" alt="Image" style="width: 3%;" /> game "Avatar💕" has inspired me to explore Unity! <img src="/unity.png" alt="Image" style="width: 1%;" /> </p> 
@@ -60,10 +63,10 @@ class TheColors : MonoBehaviour
 # GitHub Stats 
  
  
- <img src="https://github-readme-stats.vercel.app/api?username=ImYourMuse&theme=tokyonight&show_icons=true&count_private=true">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ImYourMuse&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+   <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=ImYourMuse&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ <img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>   
+  <img width=500 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ImYourMuse&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImYourMuse&theme=tokyonight&layout=compact&langs_count=6">
 
 <br/>
 
