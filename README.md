@@ -64,7 +64,7 @@ class TheColors : MonoBehaviour
  <img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>   
   <img width=500 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=TheColours&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 
-
+![LeetCode Stats](https://leetcode.card.workers.dev/TheColours?theme=dark&font=baloo&extension=null)
 <br/>
 
 <div align="center">
