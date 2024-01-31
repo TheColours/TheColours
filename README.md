@@ -8,7 +8,7 @@
 
 
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yqc64c7rug3xhvpcf3kt7amvca&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  ![Group 46](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/b782f36b-c474-4057-b19b-e10cfe29d42e)
+
 
 
 
@@ -59,36 +59,6 @@ class TheColors : MonoBehaviour
 
  
  
-   <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=TheColours&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
- <img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>   
-  <img width=500 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=TheColours&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 
-![LeetCode Stats](https://leetcode.card.workers.dev/TheColours?theme=dark&font=baloo&extension=null)
 <br/>
 
-<div align="center">
-    <img src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/partyowl.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/trollparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partyblob.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partyblobcat.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partyfsjal.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/witnessprotectionparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/parrotpoop.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/dogeparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygeeko.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partywumpus.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/discoduck.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/party-wizard.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/congadoge.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partysloth.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/thisisfineparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partymoogle.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/thegrokeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/party-k8s.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygfm.gif" width="30" height="30"/>
-</div>
