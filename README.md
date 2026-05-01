@@ -1,11 +1,18 @@
 ![Frame 49](https://github.com/ImYourMuse/ImYourMuse/assets/97489339/29e5fbb6-f491-46aa-81c7-71c132d9178b)
 
-<p>
-  Hi there! I'm Binh — passionate about mathematics and pixel art games.
+<p align="center">
+  Hi there! I'm Binh — passionate about mathematics, Unity, and 2D idle RPGs.
   <a href="http://teamobi.com/home/trang-chu.html" target="_blank">Teamobi's</a>
   <img src="/Teamobi.png" alt="Teamobi" height="22" />
   game "Avatar" has inspired me to explore Unity!
 </p>
+
+<p align="center">
+  <a href="https://thecolors.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-2563eb?style=for-the-badge&logo=unity&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 
 <br/>
 
