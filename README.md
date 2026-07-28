@@ -21,6 +21,14 @@
   </a>
 </p>
 
+<h2 align="center">GitHub Activity</h2>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheColours&amp;theme=dracula" alt="TheColours GitHub activity graph" />
+  </a>
+</p>
+
 <br/>
 
 <h2 align="center">Skills & Tools</h2>
