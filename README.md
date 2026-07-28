@@ -2,9 +2,8 @@
 
 <p align="center">
   Hi there! I'm Binh — passionate about mathematics, Unity, and 2D idle RPGs.
-  <a href="http://teamobi.com/home/trang-chu.html" target="_blank">Teamobi's</a>
-  <img src="/Teamobi.png" alt="Teamobi" height="22" />
-  game "Avatar" has inspired me to explore Unity!
+  <a href="http://teamobi.com/home/trang-chu.html">Teamobi's</a>
+  <img src="/Teamobi.png" alt="Teamobi" height="22" />game "Avatar" has inspired me to explore Unity!
 </p>
 
 <p align="center">
