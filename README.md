@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://tokscale.ai/u/TheColours">
-    <img src="https://tokscale.ai/api/embed/TheColours/svg?template=orbit&amp;color=purple&amp;graph=1&amp;rank=percent" alt="TheColours Tokscale usage statistics" />
+    <img src="https://tokscale.ai/api/embed/TheColours/svg?tokens=compact&cost=compact" alt="TheColours Tokscale usage statistics" />
   </a>
 </p>
 
