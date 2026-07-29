@@ -6,12 +6,6 @@
   <img src="/Teamobi.png" alt="Teamobi" height="22" />game "Avatar" has inspired me to explore Unity!
 </p>
 
-<p align="center">
-  <a href="https://thecolors.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-2563eb?style=for-the-badge&logo=unity&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
 <h2 align="center">AI Coding Activity</h2>
 
 <p align="center">
