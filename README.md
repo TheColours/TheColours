@@ -6,14 +6,10 @@
   <img src="/Teamobi.png" alt="Teamobi" height="22" />game "Avatar" has inspired me to explore Unity!
 </p>
 
-<h2 align="center">AI Coding Activity</h2>
-
 <p align="center">
-  <a href="https://tokscale.ai/u/TheColours">
-    <img src="https://tokscale.ai/api/embed/TheColours/svg?tokens=compact&cost=compact" alt="TheColours Tokscale usage statistics" />
-  </a>
+  <img src="assets/puzzle-loop.gif" width="49%" alt="Animated pixel puzzle: colorful blocks fill a grid" />
+  <a href="https://tokscale.ai/u/TheColours"><img src="https://tokscale.ai/api/embed/TheColours/svg?compact=1&amp;tokens=compact&amp;cost=compact" width="49%" alt="TheColours Tokscale usage statistics — compact view" /></a>
 </p>
-
 
 ## Tech Stack
 
