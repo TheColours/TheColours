@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="assets/puzzle-loop.gif?v=4" width="400" align="middle" alt="Animated pixel puzzle: colorful blocks fill a grid" />
+  <img src="assets/puzzle-loop.gif?v=4" width="400" align="top" alt="Animated pixel puzzle: colorful blocks fill a grid" />
   <picture>
     <source media="(max-width: 600px)" srcset="assets/activity-gap-vertical.svg" />
     <img src="assets/activity-gap-horizontal.svg" alt="" />
   </picture>
-  <a href="https://tokscale.ai/u/TheColours"><img src="https://tokscale.ai/api/embed/TheColours/svg?compact=1&amp;tokens=compact&amp;cost=compact" width="400" align="middle" alt="TheColours Tokscale usage statistics — compact view" /></a>
+  <a href="https://tokscale.ai/u/TheColours"><img src="https://tokscale.ai/api/embed/TheColours/svg?compact=1&amp;tokens=compact&amp;cost=compact" width="400" align="top" alt="TheColours Tokscale usage statistics — compact view" /></a>
 </p>
 
 ## Tech Stack
