@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="assets/puzzle-loop.gif?v=2" width="400" alt="Animated pixel puzzle: colorful blocks fill a grid" />
-  <a href="https://tokscale.ai/u/TheColours"><img src="https://tokscale.ai/api/embed/TheColours/svg?compact=1&amp;tokens=compact&amp;cost=compact" width="400" alt="TheColours Tokscale usage statistics — compact view" /></a>
+  <img src="assets/puzzle-loop.gif?v=3" width="400" align="middle" alt="Animated pixel puzzle: colorful blocks fill a grid" />
+  <a href="https://tokscale.ai/u/TheColours"><img src="https://tokscale.ai/api/embed/TheColours/svg?compact=1&amp;tokens=compact&amp;cost=compact" width="400" align="middle" alt="TheColours Tokscale usage statistics — compact view" /></a>
 </p>
 
 ## Tech Stack
@@ -44,10 +44,8 @@
 
 ## Featured Projects
 
-<p align="right"><a href="https://thecolors.vercel.app/#projects">View all projects →</a></p>
-
 <p align="center">
-  <a href="https://thecolors.vercel.app/projects/rune-seeker"><img src="assets/rune-seeker.svg" width="270" alt="Rune Seeker: Explore dungeons, combine runes, and battle bosses in a 2D action RPG with deep progression." /></a>
-  <a href="https://thecolors.vercel.app/projects/pack-tidy"><img src="assets/pack-tidy.svg" width="270" alt="Pack &amp; Tidy: Fit every item neatly into the grid. A casual packing puzzle with no empty cells or items left behind." /></a>
+  <a href="https://thecolors.vercel.app/projects/rune-seeker"><img src="assets/rune-seeker.svg" width="270" alt="Rune Seeker: Explore dungeons, combine runes, and battle bosses in a 2D action RPG with deep progression." /></a> &nbsp;&nbsp;
+  <a href="https://thecolors.vercel.app/projects/pack-tidy"><img src="assets/pack-tidy.svg" width="270" alt="Pack &amp; Tidy: Fit every item neatly into the grid. A casual packing puzzle with no empty cells or items left behind." /></a> &nbsp;&nbsp;
   <a href="https://thecolors.vercel.app/projects/sand-scrape"><img src="assets/sand-scrape.svg" width="270" alt="Sand Scrape: Scrape colorful sand off sculptures and sort it into matching buckets in a satisfying 3D ASMR puzzle." /></a>
 </p>
