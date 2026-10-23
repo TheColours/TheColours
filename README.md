@@ -40,9 +40,8 @@
 ![Xsolla](https://img.shields.io/badge/Xsolla-FF005B?style=flat-square)
 ![PlayFab](https://img.shields.io/badge/PlayFab-FF6C22?style=flat-square)
 
-<p>
-  <a href="https://thecolors.vercel.app/#projects"><img src="assets/projects-header.svg" width="100%" alt="Featured Projects — View all projects" /></a><br />
-  <a href="https://thecolors.vercel.app/projects/rune-seeker"><img src="assets/rune-seeker.svg" width="32%" alt="Rune Seeker: Explore dungeons, combine runes, and battle bosses in a 2D action RPG with deep progression." /></a>
-  <a href="https://thecolors.vercel.app/projects/pack-tidy"><img src="assets/pack-tidy.svg" width="32%" alt="Pack &amp; Tidy: Fit every item neatly into the grid. A casual packing puzzle with no empty cells or items left behind." /></a>
-  <a href="https://thecolors.vercel.app/projects/sand-scrape"><img src="assets/sand-scrape.svg" width="32%" alt="Sand Scrape: Scrape colorful sand off sculptures and sort it into matching buckets in a satisfying 3D ASMR puzzle." /></a>
+## Featured Projects <a href="https://thecolors.vercel.app/#projects"><img align="right" src="assets/view-projects.svg" width="140" height="30" alt="View all projects →" /></a>
+
+<p align="center">
+  <a href="https://thecolors.vercel.app/projects/rune-seeker"><img src="assets/rune-seeker.svg" width="30%" alt="Rune Seeker: Explore dungeons, combine runes, and battle bosses in a 2D action RPG with deep progression." /></a><img src="assets/project-gap.svg" width="5%" alt="" /><a href="https://thecolors.vercel.app/projects/pack-tidy"><img src="assets/pack-tidy.svg" width="30%" alt="Pack &amp; Tidy: Fit every item neatly into the grid. A casual packing puzzle with no empty cells or items left behind." /></a><img src="assets/project-gap.svg" width="5%" alt="" /><a href="https://thecolors.vercel.app/projects/sand-scrape"><img src="assets/sand-scrape.svg" width="30%" alt="Sand Scrape: Scrape colorful sand off sculptures and sort it into matching buckets in a satisfying 3D ASMR puzzle." /></a>
 </p>
