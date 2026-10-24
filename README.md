@@ -19,7 +19,7 @@
     <source media="(max-width: 600px)" srcset="assets/activity-gap-vertical.svg" />
     <img src="assets/activity-gap-horizontal.svg" alt="" />
   </picture>
-  <a href="https://github.com/TheColours"><img src="assets/contributions.svg" width="400" align="top" alt="TheColours GitHub contribution heatmap for the last 30 weeks" /></a>
+  <img src="assets/idle-battle.svg" width="400" align="top" alt="Pixel idle RPG loop: a knight auto-battles a slime and levels up" />
 </p>
 
 ## Tech Stack
