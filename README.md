@@ -19,7 +19,7 @@
     <source media="(max-width: 600px)" srcset="assets/activity-gap-vertical.svg" />
     <img src="assets/activity-gap-horizontal.svg" alt="" />
   </picture>
-  <img src="assets/idle-battle.svg" width="400" align="top" alt="Pixel idle RPG loop: a knight auto-battles a slime and levels up" />
+  <img src="https://thecolours-profile.thecolors-notification.workers.dev/card.svg" width="400" align="top" alt="Profile visitors — a pixel knight auto-battles a slime on every visit" />
 </p>
 
 ## Tech Stack

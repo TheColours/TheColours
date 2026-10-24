@@ -1,0 +1,11 @@
+name = "thecolours-profile"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+
+[[durable_objects.bindings]]
+name = "VIEW_COUNTER"
+class_name = "ViewCounter"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["ViewCounter"]
