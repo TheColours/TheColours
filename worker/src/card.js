@@ -85,7 +85,7 @@ export const renderCard = ({ views, counted }) => {
   @keyframes breathe { to { transform: scale(1.04,.95); } }${bars}${hit}
   @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
 </style>
-<rect x=".5" y=".5" width="494" height="194" rx="11.5" fill="#0D1117" stroke="#30363D"/>
+<rect x=".5" y=".5" width="494" height="194" rx="11.5" fill="#131822" stroke="rgba(255,255,255,0.16)"/>
 <text x="24" y="46" fill="#8B949E" font-size="11" letter-spacing=".4" font-family="${FONT}">IDLE / FIGHT / LEVEL UP</text>
 <text x="24" y="78" fill="#E6EDF3" font-size="22" font-weight="700" font-family="${FONT}">Numbers go up.</text>
 <text x="24" y="101" fill="#8B949E" font-size="12.5" font-family="${FONT}">Every visit lands a hit.</text>
