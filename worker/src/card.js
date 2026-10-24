@@ -51,8 +51,8 @@ export const renderCard = ({ views, counted }) => {
   const hit = !counted ? '' : `
   .lunge { animation: lunge .5s ease-out .5s 1 both; }
   .slimehit { transform-origin: 50% 100%; animation: ${leveledUp ? 'die 1.6s ease-in .6s 1 both' : 'squash .4s ease-out .65s 1 both'}; }
-  .dmg { animation: rise 1s ease-out .65s 1 both; }
-  .lvup { animation: pop 1.8s ease-out 1s 1 both; }
+  .dmg { animation: rise 1s ease-out .65s 1 both; }${leveledUp ? `
+  .lvup { animation: pop 1.8s ease-out 1s 1 both; }` : ''}
   @keyframes lunge { 0%,100% { transform: translateX(0); } 40% { transform: translateX(22px); } }
   @keyframes squash { 0%,100% { transform: translateX(0) scale(1,1); } 30% { transform: translateX(6px) scale(1.18,.78); } }
   @keyframes die {
