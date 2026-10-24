@@ -7,16 +7,14 @@
 <p align="center">
   <img src="assets/puzzle-loop.gif?v=5" width="400" align="top" alt="Animated pixel puzzle: colorful blocks fill a grid" />
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/activity-gap-vertical.svg" />
+    <source media="(max-width: 1279px)" srcset="assets/activity-gap-vertical.svg?v=2" />
     <img src="assets/activity-gap-horizontal.svg" alt="" />
   </picture>
   <a href="https://tokscale.ai/u/TheColours"><img src="https://tokscale.ai/api/embed/TheColours/svg?compact=1&amp;tokens=compact&amp;cost=compact" width="400" align="top" alt="TheColours Tokscale usage statistics — compact view" /></a>
-</p>
-
-<p align="center">
+  <img src="assets/activity-gap-horizontal.svg" width="100%" height="1" alt="" />
   <a href="https://streak-stats.demolab.com/?user=TheColours"><img src="https://streak-stats.demolab.com/?user=TheColours&amp;background=131822&amp;border=FFFFFF29&amp;border_radius=12&amp;stroke=FFFFFF17&amp;ring=2F8FFF&amp;fire=2F8FFF&amp;currStreakNum=F4F7FB&amp;currStreakLabel=2F8FFF&amp;sideNums=F4F7FB&amp;sideLabels=A8B3C5&amp;dates=A8B3C5" width="400" align="top" alt="TheColours GitHub contribution streak" /></a>
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/activity-gap-vertical.svg" />
+    <source media="(max-width: 1279px)" srcset="assets/activity-gap-vertical.svg?v=2" />
     <img src="assets/activity-gap-horizontal.svg" alt="" />
   </picture>
   <img src="https://thecolours-profile.thecolors-notification.workers.dev/card.svg" width="400" align="top" alt="Profile visitors — a pixel knight auto-battles a slime on every visit" />
