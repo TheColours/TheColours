@@ -20,9 +20,8 @@ export default {
     const fromGitHub = (request.headers.get('User-Agent') ?? '').startsWith('github-camo');
     const counter = env.VIEW_COUNTER.get(env.VIEW_COUNTER.idFromName('TheColours'));
     const views = await counter.hit(fromGitHub);
-    const level = Math.floor(Math.sqrt(views)) + 1;
 
-    return new Response(renderCard({ views, level }), {
+    return new Response(renderCard({ views, counted: fromGitHub }), {
       headers: {
         'Content-Type': 'image/svg+xml; charset=utf-8',
         'Cache-Control': 'max-age=0, no-cache, no-store, must-revalidate',
