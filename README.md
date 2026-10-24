@@ -23,37 +23,35 @@
 ## Tech Stack
 
 <p align="center">
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-222222?style=flat-square&amp;logo=unity&amp;logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-9138B5?style=flat-square" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" />
-  <img alt="Photon" src="https://img.shields.io/badge/Photon-004480?style=flat-square&amp;logo=photon&amp;logoColor=white" />
-  <img alt="PlayFab" src="https://img.shields.io/badge/PlayFab-FF6C22?style=flat-square" />
-  <img alt="Xsolla" src="https://img.shields.io/badge/Xsolla-FF005B?style=flat-square" />
-  <img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?style=flat-square&amp;logo=webgl&amp;logoColor=white" />
+  <a href="https://unity.com"><img src="https://skillicons.dev/icons?i=unity" width="48" alt="Unity" title="Unity" /></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#" title="C#" /></a>
+  <a href="https://dotnet.microsoft.com"><img src="https://skillicons.dev/icons?i=dotnet" width="48" alt=".NET" title=".NET" /></a>
+  <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" title="C++" /></a>
+  <a href="https://www.photonengine.com"><img src="assets/tech/photon.svg" width="48" alt="Photon" title="Photon" /></a>
+  <a href="https://developer.microsoft.com/en-us/games/products/playfab/"><img src="assets/tech/playfab.svg" width="48" alt="PlayFab" title="PlayFab" /></a>
+  <a href="https://xsolla.com"><img src="assets/tech/xsolla.svg" width="48" alt="Xsolla" title="Xsolla" /></a>
+  <a href="https://www.khronos.org/webgl/"><img src="assets/tech/webgl.svg" width="48" alt="WebGL" title="WebGL" /></a>
+  <a href="https://www.blender.org"><img src="https://skillicons.dev/icons?i=blender" width="48" alt="Blender" title="Blender" /></a>
+  <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" title="Figma" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" width="48" alt="Photoshop" title="Photoshop" /></a>
+  <a href="https://visualstudio.microsoft.com"><img src="https://skillicons.dev/icons?i=visualstudio" width="48" alt="Visual Studio" title="Visual Studio" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" title="VS Code" /></a>
+  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" alt="Android Studio" title="Android Studio" /></a>
   <br/>
-  <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&amp;logo=blender&amp;logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-A259FF?style=flat-square&amp;logo=figma&amp;logoColor=white" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-0066AA?style=flat-square" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square" />
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&amp;logo=androidstudio&amp;logoColor=white" />
-  <br/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-E8C928?style=flat-square&amp;logo=javascript&amp;logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD8900?style=flat-square&amp;logo=firebase&amp;logoColor=white" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;logo=cloudflare&amp;logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
-  <br/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" />
-  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&amp;logo=gitlab&amp;logoColor=white" />
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square" />
-  <img alt="Apple" src="https://img.shields.io/badge/Apple-555555?style=flat-square&amp;logo=apple&amp;logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-333333?style=flat-square&amp;logo=linux&amp;logoColor=white" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5" title="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3" title="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" title="MySQL" /></a>
+  <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" title="MongoDB" /></a>
+  <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase" title="Firebase" /></a>
+  <a href="https://www.cloudflare.com"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" alt="Cloudflare" title="Cloudflare" /></a>
+  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" title="Docker" /></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" title="Git" /></a>
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" title="GitHub" /></a>
+  <a href="https://about.gitlab.com"><img src="https://skillicons.dev/icons?i=gitlab" width="48" alt="GitLab" title="GitLab" /></a>
+  <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" width="48" alt="Windows" title="Windows" /></a>
+  <a href="https://developer.apple.com"><img src="https://skillicons.dev/icons?i=apple" width="48" alt="Apple" title="Apple" /></a>
+  <a href="https://www.kernel.org"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" title="Linux" /></a>
 </p>
 
 ## Featured Projects
