@@ -23,36 +23,36 @@
 ## Tech Stack
 
 <p align="center">
-  <a href="https://unity.com"><img src="https://skillicons.dev/icons?i=unity" width="48" hspace="2" alt="Unity" title="Unity" /></a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="48" hspace="2" alt="C#" title="C#" /></a>
-  <a href="https://dotnet.microsoft.com"><img src="https://skillicons.dev/icons?i=dotnet" width="48" hspace="2" alt=".NET" title=".NET" /></a>
-  <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" width="48" hspace="2" alt="C++" title="C++" /></a>
-  <a href="https://developer.apple.com/swift/"><img src="https://skillicons.dev/icons?i=swift" width="48" hspace="2" alt="Swift" title="Swift" /></a>
-  <a href="https://www.photonengine.com"><img src="assets/tech/photon.svg" width="48" hspace="2" alt="Photon" title="Photon" /></a>
-  <a href="https://developer.microsoft.com/en-us/games/products/playfab/"><img src="assets/tech/playfab.svg" width="48" hspace="2" alt="PlayFab" title="PlayFab" /></a>
-  <a href="https://xsolla.com"><img src="assets/tech/xsolla.svg" width="48" hspace="2" alt="Xsolla" title="Xsolla" /></a>
-  <a href="https://www.khronos.org/webgl/"><img src="assets/tech/webgl.svg" width="48" hspace="2" alt="WebGL" title="WebGL" /></a>
-  <a href="https://www.blender.org"><img src="https://skillicons.dev/icons?i=blender" width="48" hspace="2" alt="Blender" title="Blender" /></a>
-  <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" width="48" hspace="2" alt="Figma" title="Figma" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" width="48" hspace="2" alt="Photoshop" title="Photoshop" /></a>
-  <a href="https://visualstudio.microsoft.com"><img src="https://skillicons.dev/icons?i=visualstudio" width="48" hspace="2" alt="Visual Studio" title="Visual Studio" /></a>
-  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="48" hspace="2" alt="VS Code" title="VS Code" /></a>
-  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" hspace="2" alt="Android Studio" title="Android Studio" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" hspace="2" alt="HTML5" title="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" hspace="2" alt="CSS3" title="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" hspace="2" alt="JavaScript" title="JavaScript" /></a>
-  <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="48" hspace="2" alt="MySQL" title="MySQL" /></a>
-  <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="48" hspace="2" alt="MongoDB" title="MongoDB" /></a>
-  <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" width="48" hspace="2" alt="Firebase" title="Firebase" /></a>
-  <a href="https://www.cloudflare.com"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" hspace="2" alt="Cloudflare" title="Cloudflare" /></a>
-  <a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="48" hspace="2" alt="Vercel" title="Vercel" /></a>
-  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="48" hspace="2" alt="Docker" title="Docker" /></a>
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="48" hspace="2" alt="Git" title="Git" /></a>
-  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" width="48" hspace="2" alt="GitHub" title="GitHub" /></a>
-  <a href="https://about.gitlab.com"><img src="https://skillicons.dev/icons?i=gitlab" width="48" hspace="2" alt="GitLab" title="GitLab" /></a>
-  <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" width="48" hspace="2" alt="Windows" title="Windows" /></a>
-  <a href="https://developer.apple.com"><img src="https://skillicons.dev/icons?i=apple" width="48" hspace="2" alt="Apple" title="Apple" /></a>
-  <a href="https://www.kernel.org"><img src="https://skillicons.dev/icons?i=linux" width="48" hspace="2" alt="Linux" title="Linux" /></a>
+  <a href="https://unity.com"><img src="https://skillicons.dev/icons?i=unity" width="48" hspace="3" alt="Unity" title="Unity" /></a
+  ><a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="48" hspace="3" alt="C#" title="C#" /></a
+  ><a href="https://dotnet.microsoft.com"><img src="https://skillicons.dev/icons?i=dotnet" width="48" hspace="3" alt=".NET" title=".NET" /></a
+  ><a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" width="48" hspace="3" alt="C++" title="C++" /></a
+  ><a href="https://developer.apple.com/swift/"><img src="https://skillicons.dev/icons?i=swift" width="48" hspace="3" alt="Swift" title="Swift" /></a
+  ><a href="https://www.photonengine.com"><img src="assets/tech/photon.svg" width="48" hspace="3" alt="Photon" title="Photon" /></a
+  ><a href="https://developer.microsoft.com/en-us/games/products/playfab/"><img src="assets/tech/playfab.svg" width="48" hspace="3" alt="PlayFab" title="PlayFab" /></a
+  ><a href="https://xsolla.com"><img src="assets/tech/xsolla.svg" width="48" hspace="3" alt="Xsolla" title="Xsolla" /></a
+  ><a href="https://www.khronos.org/webgl/"><img src="assets/tech/webgl.svg" width="48" hspace="3" alt="WebGL" title="WebGL" /></a
+  ><a href="https://www.blender.org"><img src="https://skillicons.dev/icons?i=blender" width="48" hspace="3" alt="Blender" title="Blender" /></a
+  ><a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" width="48" hspace="3" alt="Figma" title="Figma" /></a
+  ><a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" width="48" hspace="3" alt="Photoshop" title="Photoshop" /></a
+  ><a href="https://visualstudio.microsoft.com"><img src="https://skillicons.dev/icons?i=visualstudio" width="48" hspace="3" alt="Visual Studio" title="Visual Studio" /></a
+  ><a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="48" hspace="3" alt="VS Code" title="VS Code" /></a
+  ><a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" hspace="3" alt="Android Studio" title="Android Studio" /></a
+  ><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" hspace="3" alt="HTML5" title="HTML5" /></a
+  ><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" hspace="3" alt="CSS3" title="CSS3" /></a
+  ><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" hspace="3" alt="JavaScript" title="JavaScript" /></a
+  ><a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="48" hspace="3" alt="MySQL" title="MySQL" /></a
+  ><a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="48" hspace="3" alt="MongoDB" title="MongoDB" /></a
+  ><a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" width="48" hspace="3" alt="Firebase" title="Firebase" /></a
+  ><a href="https://www.cloudflare.com"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" hspace="3" alt="Cloudflare" title="Cloudflare" /></a
+  ><a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="48" hspace="3" alt="Vercel" title="Vercel" /></a
+  ><a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="48" hspace="3" alt="Docker" title="Docker" /></a
+  ><a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="48" hspace="3" alt="Git" title="Git" /></a
+  ><a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" width="48" hspace="3" alt="GitHub" title="GitHub" /></a
+  ><a href="https://about.gitlab.com"><img src="https://skillicons.dev/icons?i=gitlab" width="48" hspace="3" alt="GitLab" title="GitLab" /></a
+  ><a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" width="48" hspace="3" alt="Windows" title="Windows" /></a
+  ><a href="https://developer.apple.com"><img src="https://skillicons.dev/icons?i=apple" width="48" hspace="3" alt="Apple" title="Apple" /></a
+  ><a href="https://www.kernel.org"><img src="https://skillicons.dev/icons?i=linux" width="48" hspace="3" alt="Linux" title="Linux" /></a>
 </p>
 
 ## Featured Projects
