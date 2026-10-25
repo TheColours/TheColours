@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/top-langs.svg" width="400" align="top" alt="Most used languages across all my repositories" />
+  <img src="https://thecolours-profile.thecolors-notification.workers.dev/langs.svg" width="400" align="top" alt="Most used languages across all my repositories" />
   <picture>
     <source media="(max-width: 1279px)" srcset="assets/activity-gap-vertical.svg?v=2" />
     <img src="assets/activity-gap-horizontal.svg" alt="" />
