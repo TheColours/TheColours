@@ -17,7 +17,7 @@
     <source media="(max-width: 1279px)" srcset="assets/activity-gap-vertical.svg?v=2" />
     <img src="assets/activity-gap-horizontal.svg" alt="" />
   </picture>
-  <img src="https://thecolours-profile.thecolors-notification.workers.dev/card.svg" width="400" align="top" alt="Profile visitors — a pixel knight auto-battles a slime on every visit" />
+  <img src="https://thecolours-profile.thecolors-notification.workers.dev/card.svg" width="400" align="top" alt="Profile views — a pixel knight auto-battles a slime on every view" />
 </p>
 
 ## Tech Stack

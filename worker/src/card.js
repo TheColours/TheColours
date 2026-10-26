@@ -72,7 +72,7 @@ export const renderCard = ({ views, counted }) => {
   @keyframes hp { from { transform: scaleX(${hpFrom}); } to { transform: scaleX(${hpTo}); } }
   .xp { animation: xp .4s ease-out .7s 1 both; } .hp { animation: hp .4s ease-out .7s 1 both; }`;
 
-  return `<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${fmt(views)} profile visitors, level ${level}, ${left} more to level ${level + 1}">
+  return `<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${fmt(views)} profile views, level ${level}, ${left} more to level ${level + 1}">
 <title>Numbers go up.</title>
 <style>
   .fb { transform-box: fill-box; }
@@ -88,11 +88,11 @@ export const renderCard = ({ views, counted }) => {
 <rect x=".5" y=".5" width="494" height="194" rx="11.5" fill="#131822" stroke="rgba(255,255,255,0.16)"/>
 <text x="24" y="46" fill="#8B949E" font-size="11" letter-spacing=".4" font-family="${FONT}">IDLE / FIGHT / LEVEL UP</text>
 <text x="24" y="78" fill="#E6EDF3" font-size="22" font-weight="700" font-family="${FONT}">Numbers go up.</text>
-<text x="24" y="101" fill="#8B949E" font-size="12.5" font-family="${FONT}">Every visit lands a hit.</text>
-<text x="24" y="136" font-size="12" letter-spacing=".4" font-family="${FONT}"><tspan fill="#58A6FF" font-weight="700">${fmt(views)} VISITORS</tspan><tspan fill="#8B949E"> · LV ${level}</tspan></text>
+<text x="24" y="101" fill="#8B949E" font-size="12.5" font-family="${FONT}">Every view lands a hit.</text>
+<text x="24" y="136" font-size="12" letter-spacing=".4" font-family="${FONT}"><tspan fill="#58A6FF" font-weight="700">${fmt(views)} VIEWS</tspan><tspan fill="#8B949E"> · LV ${level}</tspan></text>
 <rect x="24" y="146" width="200" height="6" rx="3" fill="#21262D"/>
 <rect class="xp fb" x="24" y="146" width="200" height="6" rx="3" fill="#58A6FF"/>
-<text x="24" y="170" fill="#8B949E" font-size="11" font-family="${FONT}"><tspan fill="#E6EDF3" font-weight="700">${fmt(left)}</tspan> more ${left === 1 ? 'visit' : 'visits'} to LV ${level + 1}</text>
+<text x="24" y="170" fill="#8B949E" font-size="11" font-family="${FONT}"><tspan fill="#E6EDF3" font-weight="700">${fmt(left)}</tspan> more ${left === 1 ? 'view' : 'views'} to LV ${level + 1}</text>
 ${ground}
 <g transform="translate(300 92)"><g class="lunge fb"><g class="bob fb" shape-rendering="crispEdges">${hero}</g></g></g>
 <rect x="384" y="94" width="54" height="5" rx="2.5" fill="#21262D"/>
