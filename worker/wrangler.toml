@@ -9,3 +9,7 @@ class_name = "ViewCounter"
 [[migrations]]
 tag = "v1"
 new_sqlite_classes = ["ViewCounter"]
+
+# Pre-render the slow cards so requests never wait on outside APIs.
+[triggers]
+crons = ["*/30 * * * *"]
