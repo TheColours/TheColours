@@ -18,13 +18,22 @@ export class ViewCounter extends DurableObject {
 
 const SVG = 'image/svg+xml; charset=utf-8';
 const TOKSCALE_URL = 'https://tokscale.ai/api/embed/TheColours/svg?compact=1&tokens=compact&cost=compact';
+const STREAK_URL = 'https://streak-stats.demolab.com/?user=TheColours&background=131822&border=FFFFFF29&border_radius=12&stroke=FFFFFF17&ring=2F8FFF&fire=2F8FFF&currStreakNum=F4F7FB&currStreakLabel=2F8FFF&sideNums=F4F7FB&sideLabels=A8B3C5&dates=A8B3C5';
+
+const fetchSvg = async (name, url) => {
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`${name} ${res.status}`);
+  return res.text();
+};
 
 const RENDERERS = {
   'langs.svg': async (env) => renderLangs(await fetchTopLangs(env.GITHUB_TOKEN)),
-  'tokscale.svg': async () => {
-    const res = await fetch(TOKSCALE_URL);
-    if (!res.ok) throw new Error(`Tokscale ${res.status}`);
-    return res.text();
+  'tokscale.svg': () => fetchSvg('Tokscale', TOKSCALE_URL),
+  // demolab answers errors with a 200 error card, so only a real stats card may replace the stored one.
+  'streak.svg': async () => {
+    const svg = await fetchSvg('Streak', STREAK_URL);
+    if (!svg.includes('Current Streak')) throw new Error('Streak error card');
+    return svg;
   },
 };
 

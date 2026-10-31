@@ -12,7 +12,7 @@
   </picture>
   <a href="https://tokscale.ai/u/TheColours"><img src="https://thecolours-profile.thecolors-notification.workers.dev/tokscale.svg" width="400" align="top" alt="TheColours Tokscale usage statistics — compact view" /></a>
   <img src="assets/activity-gap-horizontal.svg" width="100%" height="1" alt="" />
-  <a href="https://streak-stats.demolab.com/?user=TheColours"><img src="https://streak-stats.demolab.com/?user=TheColours&amp;background=131822&amp;border=FFFFFF29&amp;border_radius=12&amp;stroke=FFFFFF17&amp;ring=2F8FFF&amp;fire=2F8FFF&amp;currStreakNum=F4F7FB&amp;currStreakLabel=2F8FFF&amp;sideNums=F4F7FB&amp;sideLabels=A8B3C5&amp;dates=A8B3C5" width="400" align="top" alt="TheColours GitHub contribution streak" /></a>
+  <a href="https://streak-stats.demolab.com/?user=TheColours"><img src="https://thecolours-profile.thecolors-notification.workers.dev/streak.svg" width="400" align="top" alt="TheColours GitHub contribution streak" /></a>
   <picture>
     <source media="(max-width: 1279px)" srcset="assets/activity-gap-vertical.svg?v=2" />
     <img src="assets/activity-gap-horizontal.svg" alt="" />
