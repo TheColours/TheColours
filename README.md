@@ -58,8 +58,8 @@
 ## Featured Projects
 
 <p align="center">
-  <a href="https://store.steampowered.com/app/2469990/Rune_Seeker/"><img src="assets/rune-seeker.svg?v=compact2" width="192" alt="Rune Seeker: Explore dungeons, combine runes, and battle bosses in a 2D action RPG with deep progression." /></a> &nbsp;&nbsp;
-  <a href="https://apps.apple.com/us/app/pack-tidy/id6815504522"><img src="assets/pack-tidy.svg?v=compact2" width="192" alt="Pack &amp; Tidy: Fit every item neatly into the grid. A casual packing puzzle with no empty cells or items left behind." /></a> &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=co.imba.sandysort&amp;hl=en"><img src="assets/sand-scrape.svg?v=compact2" width="192" alt="Sand Scrape: Scrape colorful sand off sculptures and sort it into matching buckets in a satisfying 3D ASMR puzzle." /></a> &nbsp;&nbsp;
-  <a href="https://thecolours.itch.io/that-was-blast"><img src="assets/that-was-blast.svg?v=compact2" width="192" alt="That Was Blast" /></a>
+  <a href="https://store.steampowered.com/app/2469990/Rune_Seeker/"><img src="assets/rune-seeker.svg?v=compact3" width="192" hspace="4" alt="Rune Seeker: Explore dungeons, combine runes, and battle bosses in a 2D action RPG with deep progression." /></a
+  ><a href="https://apps.apple.com/us/app/pack-tidy/id6815504522"><img src="assets/pack-tidy.svg?v=compact3" width="192" hspace="4" alt="Pack &amp; Tidy: Fit every item neatly into the grid. A casual packing puzzle with no empty cells or items left behind." /></a
+  ><a href="https://play.google.com/store/apps/details?id=co.imba.sandysort&amp;hl=en"><img src="assets/sand-scrape.svg?v=compact3" width="192" hspace="4" alt="Sand Scrape: Scrape colorful sand off sculptures and sort it into matching buckets in a satisfying 3D ASMR puzzle." /></a
+  ><a href="https://thecolours.itch.io/that-was-blast"><img src="assets/that-was-blast.svg?v=compact3" width="192" hspace="4" alt="That Was Blast" /></a>
 </p>
